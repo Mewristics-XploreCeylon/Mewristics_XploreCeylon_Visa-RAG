@@ -6,7 +6,6 @@ This repository contains the implementation of the AI-powered Visa Assistant for
 
 ## Features
 
-- **AI Chatbot:** An AI-powered chatbot that helps travelers with information regarding Sri Lankan visa procedures.
 - **RAG Model:** Retrieval-Augmented Generation model that retrieves relevant information from documents and generates accurate responses.
 - **Flask API:** A simple Flask API that serves the RAG model for querying visa-related information.
 
